@@ -1,0 +1,12 @@
+C:\Users\bilen\source\repos\bd_interface\bd_interface\bin\Debug\bd_interface.exe.config
+C:\Users\bilen\source\repos\bd_interface\bd_interface\bin\Debug\bd_interface.exe
+C:\Users\bilen\source\repos\bd_interface\bd_interface\bin\Debug\bd_interface.pdb
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.csproj.AssemblyReference.cache
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.Properties.Resources.resources
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.csproj.GenerateResource.cache
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.csproj.CoreCompileInputs.cache
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.exe
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.pdb
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.Form1.resources
+C:\Users\bilen\source\repos\bd_interface\bd_interface\obj\Debug\bd_interface.Form2.resources
